@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\bin\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\bin\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\bin\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\bin\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\bin\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\Karar_Yapıları_ile_Dongu_Kullanimi.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\refint\Karar Yapıları ile Dongu Kullanimi.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\Karar Yapıları ile Dongu Kullanimi.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Karar Yapıları ile Dongu Kullanimi\Karar Yapıları ile Dongu Kullanimi\obj\Debug\net6.0-windows\ref\Karar Yapıları ile Dongu Kullanimi.dll

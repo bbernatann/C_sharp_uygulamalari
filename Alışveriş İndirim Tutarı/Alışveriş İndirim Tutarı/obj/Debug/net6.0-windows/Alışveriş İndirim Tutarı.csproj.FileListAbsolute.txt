@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\bin\Debug\net6.0-windows\Alışveriş İndirim Tutarı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\bin\Debug\net6.0-windows\Alışveriş İndirim Tutarı.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\bin\Debug\net6.0-windows\Alışveriş İndirim Tutarı.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\bin\Debug\net6.0-windows\Alışveriş İndirim Tutarı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\bin\Debug\net6.0-windows\Alışveriş İndirim Tutarı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\Alışveriş_İndirim_Tutarı.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\Alışveriş İndirim Tutarı.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\Alışveriş İndirim Tutarı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\Alışveriş İndirim Tutarı.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\Alışveriş İndirim Tutarı.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\Alışveriş İndirim Tutarı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\Alışveriş İndirim Tutarı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\refint\Alışveriş İndirim Tutarı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\Alışveriş İndirim Tutarı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\Alışveriş İndirim Tutarı.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı\obj\Debug\net6.0-windows\ref\Alışveriş İndirim Tutarı.dll

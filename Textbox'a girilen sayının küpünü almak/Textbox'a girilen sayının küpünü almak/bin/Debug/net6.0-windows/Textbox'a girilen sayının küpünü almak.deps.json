@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Textbox'a girilen sayının küpünü almak/1.0.0": {
+        "runtime": {
+          "Textbox'a girilen sayının küpünü almak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Textbox'a girilen sayının küpünü almak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

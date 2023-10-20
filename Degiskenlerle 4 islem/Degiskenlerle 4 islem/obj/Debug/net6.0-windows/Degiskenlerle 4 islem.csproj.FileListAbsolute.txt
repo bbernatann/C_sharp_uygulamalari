@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\bin\Debug\net6.0-windows\Degiskenlerle 4 islem.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\bin\Debug\net6.0-windows\Degiskenlerle 4 islem.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\bin\Debug\net6.0-windows\Degiskenlerle 4 islem.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\bin\Debug\net6.0-windows\Degiskenlerle 4 islem.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\bin\Debug\net6.0-windows\Degiskenlerle 4 islem.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\Degiskenlerle_4_islem.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\Degiskenlerle 4 islem.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\Degiskenlerle 4 islem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\Degiskenlerle 4 islem.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\Degiskenlerle 4 islem.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\Degiskenlerle 4 islem.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\Degiskenlerle 4 islem.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\refint\Degiskenlerle 4 islem.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\Degiskenlerle 4 islem.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\Degiskenlerle 4 islem.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Degiskenlerle 4 islem\Degiskenlerle 4 islem\obj\Debug\net6.0-windows\ref\Degiskenlerle 4 islem.dll

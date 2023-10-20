@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer ile Dijital Saat", "Timer ile Dijital Saat\Timer ile Dijital Saat.csproj", "{A5DD7A33-24C3-4F12-BE74-2F2AF20CA4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5DD7A33-24C3-4F12-BE74-2F2AF20CA4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DD7A33-24C3-4F12-BE74-2F2AF20CA4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DD7A33-24C3-4F12-BE74-2F2AF20CA4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DD7A33-24C3-4F12-BE74-2F2AF20CA4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED21543-2E81-4B5D-96F3-C24EE7962624}
+	EndGlobalSection
+EndGlobal

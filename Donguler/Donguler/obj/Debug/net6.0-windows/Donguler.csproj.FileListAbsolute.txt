@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\bin\Debug\net6.0-windows\Donguler.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\bin\Debug\net6.0-windows\Donguler.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\bin\Debug\net6.0-windows\Donguler.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\bin\Debug\net6.0-windows\Donguler.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\bin\Debug\net6.0-windows\Donguler.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\Donguler.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\Donguler.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\Donguler.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\Donguler.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\Donguler.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\refint\Donguler.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\Donguler.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\Donguler.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Donguler\Donguler\obj\Debug\net6.0-windows\ref\Donguler.dll

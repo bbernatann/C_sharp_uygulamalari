@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alışveriş İndirim Tutarı", "Alışveriş İndirim Tutarı\Alışveriş İndirim Tutarı.csproj", "{0AD9D834-DD62-4E4F-8E37-F5ABA780DC51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD9D834-DD62-4E4F-8E37-F5ABA780DC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD9D834-DD62-4E4F-8E37-F5ABA780DC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD9D834-DD62-4E4F-8E37-F5ABA780DC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD9D834-DD62-4E4F-8E37-F5ABA780DC51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD09E02D-FD35-47D2-926F-6B59FA3AE9E5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Kullanımı.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\bin\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\bin\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\bin\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\bin\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\bin\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\refint\Combobox ve Listbox Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\Combobox ve Listbox Kullanımı.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Combobox ve Listbox Kullanımı\Combobox ve Listbox Kullanımı\obj\Debug\net6.0-windows\ref\Combobox ve Listbox Kullanımı.dll

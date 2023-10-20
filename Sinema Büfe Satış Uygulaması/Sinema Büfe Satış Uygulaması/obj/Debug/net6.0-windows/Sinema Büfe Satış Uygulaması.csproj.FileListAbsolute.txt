@@ -1,0 +1,17 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\bin\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\bin\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\bin\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\bin\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\bin\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema_Büfe_Satış_Uygulaması.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\refint\Sinema Büfe Satış Uygulaması.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema Büfe Satış Uygulaması.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\ref\Sinema Büfe Satış Uygulaması.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinema Büfe Satış Uygulaması\Sinema Büfe Satış Uygulaması\obj\Debug\net6.0-windows\Sinema_Büfe_Satış_Uygulaması.Properties.Resources.resources

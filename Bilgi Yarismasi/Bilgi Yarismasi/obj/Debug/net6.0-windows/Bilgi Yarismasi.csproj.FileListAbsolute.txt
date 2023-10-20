@@ -1,0 +1,17 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\refint\Bilgi Yarismasi.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\ref\Bilgi Yarismasi.dll

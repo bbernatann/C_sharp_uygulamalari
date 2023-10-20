@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\bin\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\bin\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\bin\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\bin\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\bin\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\Ogrenci_Sınav_Durumu_Hesaplama.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\refint\Ogrenci Sınav Durumu Hesaplama.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\Ogrenci Sınav Durumu Hesaplama.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Ogrenci Sınav Durumu Hesaplama\Ogrenci Sınav Durumu Hesaplama\obj\Debug\net6.0-windows\ref\Ogrenci Sınav Durumu Hesaplama.dll

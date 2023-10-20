@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\bin\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\bin\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\bin\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\bin\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\bin\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\Chekcbox_Radiobutton_Kullanımları.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\refint\Chekcbox Radiobutton Kullanımları.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\Chekcbox Radiobutton Kullanımları.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chekcbox Radiobutton Kullanımları\Chekcbox Radiobutton Kullanımları\obj\Debug\net6.0-windows\ref\Chekcbox Radiobutton Kullanımları.dll

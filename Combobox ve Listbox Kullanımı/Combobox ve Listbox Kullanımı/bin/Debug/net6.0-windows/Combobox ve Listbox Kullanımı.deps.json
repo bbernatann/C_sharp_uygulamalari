@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Combobox ve Listbox Kullanımı/1.0.0": {
+        "runtime": {
+          "Combobox ve Listbox Kullanımı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Combobox ve Listbox Kullanımı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

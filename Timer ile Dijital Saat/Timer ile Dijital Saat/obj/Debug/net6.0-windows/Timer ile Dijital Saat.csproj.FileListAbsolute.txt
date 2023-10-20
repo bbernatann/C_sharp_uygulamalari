@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\bin\Debug\net6.0-windows\Timer ile Dijital Saat.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\bin\Debug\net6.0-windows\Timer ile Dijital Saat.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\bin\Debug\net6.0-windows\Timer ile Dijital Saat.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\bin\Debug\net6.0-windows\Timer ile Dijital Saat.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\bin\Debug\net6.0-windows\Timer ile Dijital Saat.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\Timer_ile_Dijital_Saat.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\Timer ile Dijital Saat.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\Timer ile Dijital Saat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\Timer ile Dijital Saat.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\Timer ile Dijital Saat.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\Timer ile Dijital Saat.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\Timer ile Dijital Saat.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\refint\Timer ile Dijital Saat.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\Timer ile Dijital Saat.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\Timer ile Dijital Saat.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer ile Dijital Saat\Timer ile Dijital Saat\obj\Debug\net6.0-windows\ref\Timer ile Dijital Saat.dll

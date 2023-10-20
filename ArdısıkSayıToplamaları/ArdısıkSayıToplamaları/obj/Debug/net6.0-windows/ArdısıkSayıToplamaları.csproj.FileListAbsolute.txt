@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\bin\Debug\net6.0-windows\ArdısıkSayıToplamaları.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\bin\Debug\net6.0-windows\ArdısıkSayıToplamaları.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\bin\Debug\net6.0-windows\ArdısıkSayıToplamaları.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\bin\Debug\net6.0-windows\ArdısıkSayıToplamaları.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\bin\Debug\net6.0-windows\ArdısıkSayıToplamaları.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ArdısıkSayıToplamaları.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ArdısıkSayıToplamaları.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ArdısıkSayıToplamaları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ArdısıkSayıToplamaları.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ArdısıkSayıToplamaları.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ArdısıkSayıToplamaları.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ArdısıkSayıToplamaları.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\refint\ArdısıkSayıToplamaları.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ArdısıkSayıToplamaları.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ArdısıkSayıToplamaları.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\ArdısıkSayıToplamaları\ArdısıkSayıToplamaları\obj\Debug\net6.0-windows\ref\ArdısıkSayıToplamaları.dll

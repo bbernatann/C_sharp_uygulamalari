@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\bin\Debug\net6.0-windows\Do-While Dongusu.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\bin\Debug\net6.0-windows\Do-While Dongusu.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\bin\Debug\net6.0-windows\Do-While Dongusu.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\bin\Debug\net6.0-windows\Do-While Dongusu.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\bin\Debug\net6.0-windows\Do-While Dongusu.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\Do_While_Dongusu.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\Do-While Dongusu.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\Do-While Dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\Do-While Dongusu.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\Do-While Dongusu.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\Do-While Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\Do-While Dongusu.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\refint\Do-While Dongusu.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\Do-While Dongusu.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\Do-While Dongusu.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Do-While Dongusu\Do-While Dongusu\obj\Debug\net6.0-windows\ref\Do-While Dongusu.dll

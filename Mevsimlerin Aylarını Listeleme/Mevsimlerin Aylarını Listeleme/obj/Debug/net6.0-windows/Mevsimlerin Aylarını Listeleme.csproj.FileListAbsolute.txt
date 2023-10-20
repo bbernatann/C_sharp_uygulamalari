@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\Mevsimlerin_Aylarını_Listeleme.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\bin\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\bin\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\bin\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\bin\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\bin\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\refint\Mevsimlerin Aylarını Listeleme.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\Mevsimlerin Aylarını Listeleme.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Mevsimlerin Aylarını Listeleme\Mevsimlerin Aylarını Listeleme\obj\Debug\net6.0-windows\ref\Mevsimlerin Aylarını Listeleme.dll

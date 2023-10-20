@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\bin\Debug\net6.0-windows\Label ve Textbox Kullanımı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\bin\Debug\net6.0-windows\Label ve Textbox Kullanımı.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\bin\Debug\net6.0-windows\Label ve Textbox Kullanımı.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\bin\Debug\net6.0-windows\Label ve Textbox Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\bin\Debug\net6.0-windows\Label ve Textbox Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\Label_ve_Textbox_Kullanımı.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\Label ve Textbox Kullanımı.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\Label ve Textbox Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\Label ve Textbox Kullanımı.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\Label ve Textbox Kullanımı.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\Label ve Textbox Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\Label ve Textbox Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\refint\Label ve Textbox Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\Label ve Textbox Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\Label ve Textbox Kullanımı.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Label ve Textbox Kullanımı\Label ve Textbox Kullanımı\obj\Debug\net6.0-windows\ref\Label ve Textbox Kullanımı.dll

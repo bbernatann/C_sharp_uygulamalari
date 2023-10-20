@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\bin\Debug\net6.0-windows\Timer Kullanımı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\bin\Debug\net6.0-windows\Timer Kullanımı.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\bin\Debug\net6.0-windows\Timer Kullanımı.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\bin\Debug\net6.0-windows\Timer Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\bin\Debug\net6.0-windows\Timer Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\Timer_Kullanımı.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\Timer Kullanımı.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\Timer Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\Timer Kullanımı.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\Timer Kullanımı.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\Timer Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\Timer Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\refint\Timer Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\Timer Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\Timer Kullanımı.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Timer Kullanımı\Timer Kullanımı\obj\Debug\net6.0-windows\ref\Timer Kullanımı.dll

@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\bin\Debug\net6.0-windows\String Kullanımı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\bin\Debug\net6.0-windows\String Kullanımı.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\bin\Debug\net6.0-windows\String Kullanımı.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\bin\Debug\net6.0-windows\String Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\bin\Debug\net6.0-windows\String Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\String_Kullanımı.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\String Kullanımı.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\String Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\String Kullanımı.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\String Kullanımı.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\String Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\String Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\refint\String Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\String Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\String Kullanımı.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\String Kullanımı\String Kullanımı\obj\Debug\net6.0-windows\ref\String Kullanımı.dll

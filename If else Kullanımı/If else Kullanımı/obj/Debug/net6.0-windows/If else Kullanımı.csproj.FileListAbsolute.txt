@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\bin\Debug\net6.0-windows\If else Kullanımı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\bin\Debug\net6.0-windows\If else Kullanımı.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\bin\Debug\net6.0-windows\If else Kullanımı.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\bin\Debug\net6.0-windows\If else Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\bin\Debug\net6.0-windows\If else Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\If_else_Kullanımı.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\If else Kullanımı.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\If else Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\If else Kullanımı.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\If else Kullanımı.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\If else Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\If else Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\refint\If else Kullanımı.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\If else Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\If else Kullanımı.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\If else Kullanımı\If else Kullanımı\obj\Debug\net6.0-windows\ref\If else Kullanımı.dll
