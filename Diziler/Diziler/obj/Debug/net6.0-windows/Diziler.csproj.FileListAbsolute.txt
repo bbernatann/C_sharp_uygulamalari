@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\refint\Diziler.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziler\Diziler\obj\Debug\net6.0-windows\ref\Diziler.dll

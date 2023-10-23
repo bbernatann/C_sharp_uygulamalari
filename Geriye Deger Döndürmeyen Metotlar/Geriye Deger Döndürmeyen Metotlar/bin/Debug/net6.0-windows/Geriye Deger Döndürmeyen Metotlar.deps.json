@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Geriye Deger Döndürmeyen Metotlar/1.0.0": {
+        "runtime": {
+          "Geriye Deger Döndürmeyen Metotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Geriye Deger Döndürmeyen Metotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

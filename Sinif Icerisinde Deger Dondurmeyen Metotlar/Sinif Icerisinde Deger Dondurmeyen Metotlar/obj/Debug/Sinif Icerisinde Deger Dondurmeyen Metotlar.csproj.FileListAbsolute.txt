@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif Icerisinde Deger Dondurmeyen Metotlar\Sinif Icerisinde Deger Dondurmeyen Metotlar\obj\Debug\Sinif Icerisinde Deger Dondurmeyen Metotlar.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif Icerisinde Deger Dondurmeyen Metotlar\Sinif Icerisinde Deger Dondurmeyen Metotlar\obj\Debug\Sinif Icerisinde Deger Dondurmeyen Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif Icerisinde Deger Dondurmeyen Metotlar\Sinif Icerisinde Deger Dondurmeyen Metotlar\bin\Debug\Sinif Icerisinde Deger Dondurmeyen Metotlar.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif Icerisinde Deger Dondurmeyen Metotlar\Sinif Icerisinde Deger Dondurmeyen Metotlar\bin\Debug\Sinif Icerisinde Deger Dondurmeyen Metotlar.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif Icerisinde Deger Dondurmeyen Metotlar\Sinif Icerisinde Deger Dondurmeyen Metotlar\bin\Debug\Sinif Icerisinde Deger Dondurmeyen Metotlar.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif Icerisinde Deger Dondurmeyen Metotlar\Sinif Icerisinde Deger Dondurmeyen Metotlar\obj\Debug\Sinif Icerisinde Deger Dondurmeyen Metotlar.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif Icerisinde Deger Dondurmeyen Metotlar\Sinif Icerisinde Deger Dondurmeyen Metotlar\obj\Debug\Sinif Icerisinde Deger Dondurmeyen Metotlar.pdb

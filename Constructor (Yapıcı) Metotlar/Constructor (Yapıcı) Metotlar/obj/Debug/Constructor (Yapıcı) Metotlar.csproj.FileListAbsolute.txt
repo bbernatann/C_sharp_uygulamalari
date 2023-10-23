@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar\Constructor (Yapıcı) Metotlar\bin\Debug\Constructor (Yapıcı) Metotlar.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar\Constructor (Yapıcı) Metotlar\bin\Debug\Constructor (Yapıcı) Metotlar.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar\Constructor (Yapıcı) Metotlar\bin\Debug\Constructor (Yapıcı) Metotlar.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar\Constructor (Yapıcı) Metotlar\obj\Debug\Constructor (Yapıcı) Metotlar.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar\Constructor (Yapıcı) Metotlar\obj\Debug\Constructor (Yapıcı) Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar\Constructor (Yapıcı) Metotlar\obj\Debug\Constructor (Yapıcı) Metotlar.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar\Constructor (Yapıcı) Metotlar\obj\Debug\Constructor (Yapıcı) Metotlar.pdb

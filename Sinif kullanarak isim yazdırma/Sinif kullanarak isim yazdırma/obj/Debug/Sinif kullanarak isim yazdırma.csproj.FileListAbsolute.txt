@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif kullanarak isim yazdırma\Sinif kullanarak isim yazdırma\bin\Debug\Sinif kullanarak isim yazdırma.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif kullanarak isim yazdırma\Sinif kullanarak isim yazdırma\bin\Debug\Sinif kullanarak isim yazdırma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif kullanarak isim yazdırma\Sinif kullanarak isim yazdırma\bin\Debug\Sinif kullanarak isim yazdırma.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif kullanarak isim yazdırma\Sinif kullanarak isim yazdırma\obj\Debug\Sinif kullanarak isim yazdırma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif kullanarak isim yazdırma\Sinif kullanarak isim yazdırma\obj\Debug\Sinif kullanarak isim yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif kullanarak isim yazdırma\Sinif kullanarak isim yazdırma\obj\Debug\Sinif kullanarak isim yazdırma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sinif kullanarak isim yazdırma\Sinif kullanarak isim yazdırma\obj\Debug\Sinif kullanarak isim yazdırma.pdb

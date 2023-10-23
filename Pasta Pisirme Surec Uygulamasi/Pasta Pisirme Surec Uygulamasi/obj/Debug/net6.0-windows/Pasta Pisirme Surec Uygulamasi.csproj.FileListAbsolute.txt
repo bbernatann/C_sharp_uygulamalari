@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\bin\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\bin\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\bin\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\bin\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\bin\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\Pasta_Pisirme_Surec_Uygulamasi.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\refint\Pasta Pisirme Surec Uygulamasi.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\Pasta Pisirme Surec Uygulamasi.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Pasta Pisirme Surec Uygulamasi\Pasta Pisirme Surec Uygulamasi\obj\Debug\net6.0-windows\ref\Pasta Pisirme Surec Uygulamasi.dll

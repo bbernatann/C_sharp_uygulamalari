@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\bin\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\bin\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\bin\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\bin\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\bin\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\Geriye_Deger_Döndürmeyen_Metotlar.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\refint\Geriye Deger Döndürmeyen Metotlar.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\Geriye Deger Döndürmeyen Metotlar.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Döndürmeyen Metotlar\Geriye Deger Döndürmeyen Metotlar\obj\Debug\net6.0-windows\ref\Geriye Deger Döndürmeyen Metotlar.dll

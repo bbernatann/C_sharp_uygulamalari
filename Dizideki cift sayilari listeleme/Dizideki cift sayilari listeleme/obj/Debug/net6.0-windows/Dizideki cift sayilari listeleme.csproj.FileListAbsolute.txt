@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\bin\Debug\net6.0-windows\Dizideki cift sayilari listeleme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\bin\Debug\net6.0-windows\Dizideki cift sayilari listeleme.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\bin\Debug\net6.0-windows\Dizideki cift sayilari listeleme.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\bin\Debug\net6.0-windows\Dizideki cift sayilari listeleme.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\bin\Debug\net6.0-windows\Dizideki cift sayilari listeleme.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\Dizideki_cift_sayilari_listeleme.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\Dizideki cift sayilari listeleme.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\Dizideki cift sayilari listeleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\Dizideki cift sayilari listeleme.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\Dizideki cift sayilari listeleme.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\Dizideki cift sayilari listeleme.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\Dizideki cift sayilari listeleme.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\refint\Dizideki cift sayilari listeleme.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\Dizideki cift sayilari listeleme.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\Dizideki cift sayilari listeleme.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme\obj\Debug\net6.0-windows\ref\Dizideki cift sayilari listeleme.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sınıf Oluşturma ve Nesne Kavramı/1.0.0": {
+        "runtime": {
+          "Sınıf Oluşturma ve Nesne Kavramı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sınıf Oluşturma ve Nesne Kavramı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

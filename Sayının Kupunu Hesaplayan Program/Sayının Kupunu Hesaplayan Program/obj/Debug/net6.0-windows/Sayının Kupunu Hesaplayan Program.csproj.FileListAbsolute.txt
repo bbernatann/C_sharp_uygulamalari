@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\bin\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\bin\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\bin\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\bin\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\bin\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\Sayının_Kupunu_Hesaplayan_Program.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\refint\Sayının Kupunu Hesaplayan Program.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\Sayının Kupunu Hesaplayan Program.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayının Kupunu Hesaplayan Program\Sayının Kupunu Hesaplayan Program\obj\Debug\net6.0-windows\ref\Sayının Kupunu Hesaplayan Program.dll

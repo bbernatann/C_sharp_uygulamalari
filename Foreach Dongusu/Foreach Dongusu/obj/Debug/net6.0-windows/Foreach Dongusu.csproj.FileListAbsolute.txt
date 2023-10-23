@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\bin\Debug\net6.0-windows\Foreach Dongusu.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\bin\Debug\net6.0-windows\Foreach Dongusu.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\bin\Debug\net6.0-windows\Foreach Dongusu.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\bin\Debug\net6.0-windows\Foreach Dongusu.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\bin\Debug\net6.0-windows\Foreach Dongusu.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\Foreach_Dongusu.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\Foreach Dongusu.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\Foreach Dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\Foreach Dongusu.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\Foreach Dongusu.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\Foreach Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\Foreach Dongusu.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\refint\Foreach Dongusu.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\Foreach Dongusu.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\Foreach Dongusu.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Foreach Dongusu\Foreach Dongusu\obj\Debug\net6.0-windows\ref\Foreach Dongusu.dll

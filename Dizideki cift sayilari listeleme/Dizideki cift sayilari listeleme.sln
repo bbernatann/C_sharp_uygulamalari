@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizideki cift sayilari listeleme", "Dizideki cift sayilari listeleme\Dizideki cift sayilari listeleme.csproj", "{1FE5A073-1617-4762-933A-98B740AAC92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE5A073-1617-4762-933A-98B740AAC92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE5A073-1617-4762-933A-98B740AAC92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE5A073-1617-4762-933A-98B740AAC92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE5A073-1617-4762-933A-98B740AAC92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B6BCE4-D04C-4302-B1A9-2BE4651CFAEC}
+	EndGlobalSection
+EndGlobal

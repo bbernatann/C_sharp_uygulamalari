@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar Ornek,\Constructor (Yapıcı) Metotlar Ornek,\bin\Debug\Constructor (Yapıcı) Metotlar Ornek,.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar Ornek,\Constructor (Yapıcı) Metotlar Ornek,\bin\Debug\Constructor (Yapıcı) Metotlar Ornek,.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar Ornek,\Constructor (Yapıcı) Metotlar Ornek,\bin\Debug\Constructor (Yapıcı) Metotlar Ornek,.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar Ornek,\Constructor (Yapıcı) Metotlar Ornek,\obj\Debug\Constructor (Yapıcı) Metotlar Ornek,.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar Ornek,\Constructor (Yapıcı) Metotlar Ornek,\obj\Debug\Constructor (Yapıcı) Metotlar Ornek,.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar Ornek,\Constructor (Yapıcı) Metotlar Ornek,\obj\Debug\Constructor (Yapıcı) Metotlar Ornek,.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Constructor (Yapıcı) Metotlar Ornek,\Constructor (Yapıcı) Metotlar Ornek,\obj\Debug\Constructor (Yapıcı) Metotlar Ornek,.pdb

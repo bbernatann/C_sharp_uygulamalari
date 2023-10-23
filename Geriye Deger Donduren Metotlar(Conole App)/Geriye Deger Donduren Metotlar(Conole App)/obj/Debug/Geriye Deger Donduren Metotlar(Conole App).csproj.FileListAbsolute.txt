@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar(Conole App)\Geriye Deger Donduren Metotlar(Conole App)\bin\Debug\Geriye Deger Donduren Metotlar(Conole App).exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar(Conole App)\Geriye Deger Donduren Metotlar(Conole App)\bin\Debug\Geriye Deger Donduren Metotlar(Conole App).exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar(Conole App)\Geriye Deger Donduren Metotlar(Conole App)\bin\Debug\Geriye Deger Donduren Metotlar(Conole App).pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar(Conole App)\Geriye Deger Donduren Metotlar(Conole App)\obj\Debug\Geriye Deger Donduren Metotlar(Conole App).csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar(Conole App)\Geriye Deger Donduren Metotlar(Conole App)\obj\Debug\Geriye Deger Donduren Metotlar(Conole App).csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar(Conole App)\Geriye Deger Donduren Metotlar(Conole App)\obj\Debug\Geriye Deger Donduren Metotlar(Conole App).exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar(Conole App)\Geriye Deger Donduren Metotlar(Conole App)\obj\Debug\Geriye Deger Donduren Metotlar(Conole App).pdb

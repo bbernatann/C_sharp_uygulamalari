@@ -1,0 +1,16 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\bin\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\bin\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.deps.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\bin\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.runtimeconfig.json
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\bin\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\bin\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\Geriye_Deger_Donduren_Metotlar.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.AssemblyInfoInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.AssemblyInfo.cs
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\refint\Geriye Deger Donduren Metotlar.dll
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\Geriye Deger Donduren Metotlar.genruntimeconfig.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Geriye Deger Donduren Metotlar\Geriye Deger Donduren Metotlar\obj\Debug\net6.0-windows\ref\Geriye Deger Donduren Metotlar.dll
