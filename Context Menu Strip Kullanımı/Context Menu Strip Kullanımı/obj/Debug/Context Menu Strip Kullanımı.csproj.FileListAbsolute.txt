@@ -1,0 +1,10 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\bin\Debug\Context Menu Strip Kullanımı.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\bin\Debug\Context Menu Strip Kullanımı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\bin\Debug\Context Menu Strip Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\obj\Debug\Context Menu Strip Kullanımı.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\obj\Debug\Context_Menu_Strip_Kullanımı.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\obj\Debug\Context_Menu_Strip_Kullanımı.Properties.Resources.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\obj\Debug\Context Menu Strip Kullanımı.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\obj\Debug\Context Menu Strip Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\obj\Debug\Context Menu Strip Kullanımı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Context Menu Strip Kullanımı\Context Menu Strip Kullanımı\obj\Debug\Context Menu Strip Kullanımı.pdb

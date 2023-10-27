@@ -1,0 +1,10 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\bin\Debug\Chart (Grafik) Aracı Kullanımı.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\bin\Debug\Chart (Grafik) Aracı Kullanımı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\bin\Debug\Chart (Grafik) Aracı Kullanımı.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\obj\Debug\Chart (Grafik) Aracı Kullanımı.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\obj\Debug\Chart__Grafik__Aracı_Kullanımı.Form1.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\obj\Debug\Chart__Grafik__Aracı_Kullanımı.Properties.Resources.resources
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\obj\Debug\Chart (Grafik) Aracı Kullanımı.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\obj\Debug\Chart (Grafik) Aracı Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\obj\Debug\Chart (Grafik) Aracı Kullanımı.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Chart (Grafik) Aracı Kullanımı\Chart (Grafik) Aracı Kullanımı\obj\Debug\Chart (Grafik) Aracı Kullanımı.pdb
