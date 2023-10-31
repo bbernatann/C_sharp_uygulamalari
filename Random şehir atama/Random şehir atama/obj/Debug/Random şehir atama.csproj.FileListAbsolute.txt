@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random şehir atama\Random şehir atama\bin\Debug\Random şehir atama.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random şehir atama\Random şehir atama\bin\Debug\Random şehir atama.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random şehir atama\Random şehir atama\bin\Debug\Random şehir atama.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random şehir atama\Random şehir atama\obj\Debug\Random şehir atama.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random şehir atama\Random şehir atama\obj\Debug\Random şehir atama.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random şehir atama\Random şehir atama\obj\Debug\Random şehir atama.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random şehir atama\Random şehir atama\obj\Debug\Random şehir atama.pdb

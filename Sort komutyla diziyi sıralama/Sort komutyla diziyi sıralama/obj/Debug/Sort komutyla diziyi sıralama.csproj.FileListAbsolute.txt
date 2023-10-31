@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sort komutyla diziyi sıralama\Sort komutyla diziyi sıralama\bin\Debug\Sort komutyla diziyi sıralama.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sort komutyla diziyi sıralama\Sort komutyla diziyi sıralama\bin\Debug\Sort komutyla diziyi sıralama.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sort komutyla diziyi sıralama\Sort komutyla diziyi sıralama\bin\Debug\Sort komutyla diziyi sıralama.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sort komutyla diziyi sıralama\Sort komutyla diziyi sıralama\obj\Debug\Sort komutyla diziyi sıralama.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sort komutyla diziyi sıralama\Sort komutyla diziyi sıralama\obj\Debug\Sort komutyla diziyi sıralama.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sort komutyla diziyi sıralama\Sort komutyla diziyi sıralama\obj\Debug\Sort komutyla diziyi sıralama.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sort komutyla diziyi sıralama\Sort komutyla diziyi sıralama\obj\Debug\Sort komutyla diziyi sıralama.pdb

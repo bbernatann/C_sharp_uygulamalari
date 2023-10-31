@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en büyük elemanını bulma\Dizinin en büyük elemanını bulma\bin\Debug\Dizinin en büyük elemanını bulma.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en büyük elemanını bulma\Dizinin en büyük elemanını bulma\bin\Debug\Dizinin en büyük elemanını bulma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en büyük elemanını bulma\Dizinin en büyük elemanını bulma\bin\Debug\Dizinin en büyük elemanını bulma.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en büyük elemanını bulma\Dizinin en büyük elemanını bulma\obj\Debug\Dizinin en büyük elemanını bulma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en büyük elemanını bulma\Dizinin en büyük elemanını bulma\obj\Debug\Dizinin en büyük elemanını bulma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en büyük elemanını bulma\Dizinin en büyük elemanını bulma\obj\Debug\Dizinin en büyük elemanını bulma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en büyük elemanını bulma\Dizinin en büyük elemanını bulma\obj\Debug\Dizinin en büyük elemanını bulma.pdb

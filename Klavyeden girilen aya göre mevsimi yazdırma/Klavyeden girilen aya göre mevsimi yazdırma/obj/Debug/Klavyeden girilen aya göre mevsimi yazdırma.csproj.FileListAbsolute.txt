@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen aya göre mevsimi yazdırma\Klavyeden girilen aya göre mevsimi yazdırma\bin\Debug\Klavyeden girilen aya göre mevsimi yazdırma.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen aya göre mevsimi yazdırma\Klavyeden girilen aya göre mevsimi yazdırma\bin\Debug\Klavyeden girilen aya göre mevsimi yazdırma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen aya göre mevsimi yazdırma\Klavyeden girilen aya göre mevsimi yazdırma\bin\Debug\Klavyeden girilen aya göre mevsimi yazdırma.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen aya göre mevsimi yazdırma\Klavyeden girilen aya göre mevsimi yazdırma\obj\Debug\Klavyeden girilen aya göre mevsimi yazdırma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen aya göre mevsimi yazdırma\Klavyeden girilen aya göre mevsimi yazdırma\obj\Debug\Klavyeden girilen aya göre mevsimi yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen aya göre mevsimi yazdırma\Klavyeden girilen aya göre mevsimi yazdırma\obj\Debug\Klavyeden girilen aya göre mevsimi yazdırma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen aya göre mevsimi yazdırma\Klavyeden girilen aya göre mevsimi yazdırma\obj\Debug\Klavyeden girilen aya göre mevsimi yazdırma.pdb

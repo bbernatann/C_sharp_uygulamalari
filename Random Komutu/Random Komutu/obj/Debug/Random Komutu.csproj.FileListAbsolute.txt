@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random Komutu\Random Komutu\bin\Debug\Random Komutu.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random Komutu\Random Komutu\bin\Debug\Random Komutu.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random Komutu\Random Komutu\bin\Debug\Random Komutu.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random Komutu\Random Komutu\obj\Debug\Random Komutu.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random Komutu\Random Komutu\obj\Debug\Random Komutu.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random Komutu\Random Komutu\obj\Debug\Random Komutu.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Random Komutu\Random Komutu\obj\Debug\Random Komutu.pdb

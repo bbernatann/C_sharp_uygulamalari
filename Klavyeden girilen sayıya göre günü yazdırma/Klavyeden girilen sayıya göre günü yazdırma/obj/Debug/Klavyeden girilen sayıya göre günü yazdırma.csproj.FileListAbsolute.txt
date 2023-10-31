@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen sayıya göre günü yazdırma\Klavyeden girilen sayıya göre günü yazdırma\bin\Debug\Klavyeden girilen sayıya göre günü yazdırma.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen sayıya göre günü yazdırma\Klavyeden girilen sayıya göre günü yazdırma\bin\Debug\Klavyeden girilen sayıya göre günü yazdırma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen sayıya göre günü yazdırma\Klavyeden girilen sayıya göre günü yazdırma\bin\Debug\Klavyeden girilen sayıya göre günü yazdırma.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen sayıya göre günü yazdırma\Klavyeden girilen sayıya göre günü yazdırma\obj\Debug\Klavyeden girilen sayıya göre günü yazdırma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen sayıya göre günü yazdırma\Klavyeden girilen sayıya göre günü yazdırma\obj\Debug\Klavyeden girilen sayıya göre günü yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen sayıya göre günü yazdırma\Klavyeden girilen sayıya göre günü yazdırma\obj\Debug\Klavyeden girilen sayıya göre günü yazdırma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Klavyeden girilen sayıya göre günü yazdırma\Klavyeden girilen sayıya göre günü yazdırma\obj\Debug\Klavyeden girilen sayıya göre günü yazdırma.pdb

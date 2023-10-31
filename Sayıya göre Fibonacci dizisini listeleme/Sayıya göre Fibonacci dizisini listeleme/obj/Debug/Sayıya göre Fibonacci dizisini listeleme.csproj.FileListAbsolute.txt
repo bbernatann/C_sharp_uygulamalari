@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayıya göre Fibonacci dizisini listeleme\Sayıya göre Fibonacci dizisini listeleme\bin\Debug\Sayıya göre Fibonacci dizisini listeleme.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayıya göre Fibonacci dizisini listeleme\Sayıya göre Fibonacci dizisini listeleme\bin\Debug\Sayıya göre Fibonacci dizisini listeleme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayıya göre Fibonacci dizisini listeleme\Sayıya göre Fibonacci dizisini listeleme\bin\Debug\Sayıya göre Fibonacci dizisini listeleme.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayıya göre Fibonacci dizisini listeleme\Sayıya göre Fibonacci dizisini listeleme\obj\Debug\Sayıya göre Fibonacci dizisini listeleme.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayıya göre Fibonacci dizisini listeleme\Sayıya göre Fibonacci dizisini listeleme\obj\Debug\Sayıya göre Fibonacci dizisini listeleme.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayıya göre Fibonacci dizisini listeleme\Sayıya göre Fibonacci dizisini listeleme\obj\Debug\Sayıya göre Fibonacci dizisini listeleme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Sayıya göre Fibonacci dizisini listeleme\Sayıya göre Fibonacci dizisini listeleme\obj\Debug\Sayıya göre Fibonacci dizisini listeleme.pdb

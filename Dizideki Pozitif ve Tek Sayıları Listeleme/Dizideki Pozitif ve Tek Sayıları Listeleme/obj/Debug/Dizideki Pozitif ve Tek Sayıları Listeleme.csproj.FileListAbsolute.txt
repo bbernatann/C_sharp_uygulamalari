@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki Pozitif ve Tek Sayıları Listeleme\Dizideki Pozitif ve Tek Sayıları Listeleme\bin\Debug\Dizideki Pozitif ve Tek Sayıları Listeleme.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki Pozitif ve Tek Sayıları Listeleme\Dizideki Pozitif ve Tek Sayıları Listeleme\bin\Debug\Dizideki Pozitif ve Tek Sayıları Listeleme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki Pozitif ve Tek Sayıları Listeleme\Dizideki Pozitif ve Tek Sayıları Listeleme\bin\Debug\Dizideki Pozitif ve Tek Sayıları Listeleme.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki Pozitif ve Tek Sayıları Listeleme\Dizideki Pozitif ve Tek Sayıları Listeleme\obj\Debug\Dizideki Pozitif ve Tek Sayıları Listeleme.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki Pozitif ve Tek Sayıları Listeleme\Dizideki Pozitif ve Tek Sayıları Listeleme\obj\Debug\Dizideki Pozitif ve Tek Sayıları Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki Pozitif ve Tek Sayıları Listeleme\Dizideki Pozitif ve Tek Sayıları Listeleme\obj\Debug\Dizideki Pozitif ve Tek Sayıları Listeleme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizideki Pozitif ve Tek Sayıları Listeleme\Dizideki Pozitif ve Tek Sayıları Listeleme\obj\Debug\Dizideki Pozitif ve Tek Sayıları Listeleme.pdb

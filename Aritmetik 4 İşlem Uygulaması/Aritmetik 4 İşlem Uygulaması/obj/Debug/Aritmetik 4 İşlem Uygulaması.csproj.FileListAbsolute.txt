@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\bin\Debug\Aritmetik 4 İşlem Uygulaması.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\bin\Debug\Aritmetik 4 İşlem Uygulaması.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\bin\Debug\Aritmetik 4 İşlem Uygulaması.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\Aritmetik 4 İşlem Uygulaması.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\Aritmetik 4 İşlem Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\Aritmetik 4 İşlem Uygulaması.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\Aritmetik 4 İşlem Uygulaması.pdb

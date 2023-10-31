@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en küçük elemanını bulma\Dizinin en küçük elemanını bulma\bin\Debug\Dizinin en küçük elemanını bulma.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en küçük elemanını bulma\Dizinin en küçük elemanını bulma\bin\Debug\Dizinin en küçük elemanını bulma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en küçük elemanını bulma\Dizinin en küçük elemanını bulma\bin\Debug\Dizinin en küçük elemanını bulma.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en küçük elemanını bulma\Dizinin en küçük elemanını bulma\obj\Debug\Dizinin en küçük elemanını bulma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en küçük elemanını bulma\Dizinin en küçük elemanını bulma\obj\Debug\Dizinin en küçük elemanını bulma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en küçük elemanını bulma\Dizinin en küçük elemanını bulma\obj\Debug\Dizinin en küçük elemanını bulma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Dizinin en küçük elemanını bulma\Dizinin en küçük elemanını bulma\obj\Debug\Dizinin en küçük elemanını bulma.pdb

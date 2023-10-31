@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizinin en büyük elemanını bulma", "Dizinin en büyük elemanını bulma\Dizinin en büyük elemanını bulma.csproj", "{B2E36523-2BD8-46C7-A3A9-E16D1ADF875C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E36523-2BD8-46C7-A3A9-E16D1ADF875C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E36523-2BD8-46C7-A3A9-E16D1ADF875C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E36523-2BD8-46C7-A3A9-E16D1ADF875C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E36523-2BD8-46C7-A3A9-E16D1ADF875C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFDA3C83-F1EA-4A74-B8BD-78C00B1D3504}
+	EndGlobalSection
+EndGlobal

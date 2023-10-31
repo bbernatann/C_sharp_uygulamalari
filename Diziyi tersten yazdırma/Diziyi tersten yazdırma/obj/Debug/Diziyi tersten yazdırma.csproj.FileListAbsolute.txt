@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziyi tersten yazdırma\Diziyi tersten yazdırma\bin\Debug\Diziyi tersten yazdırma.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziyi tersten yazdırma\Diziyi tersten yazdırma\bin\Debug\Diziyi tersten yazdırma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziyi tersten yazdırma\Diziyi tersten yazdırma\bin\Debug\Diziyi tersten yazdırma.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziyi tersten yazdırma\Diziyi tersten yazdırma\obj\Debug\Diziyi tersten yazdırma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziyi tersten yazdırma\Diziyi tersten yazdırma\obj\Debug\Diziyi tersten yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziyi tersten yazdırma\Diziyi tersten yazdırma\obj\Debug\Diziyi tersten yazdırma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Diziyi tersten yazdırma\Diziyi tersten yazdırma\obj\Debug\Diziyi tersten yazdırma.pdb
