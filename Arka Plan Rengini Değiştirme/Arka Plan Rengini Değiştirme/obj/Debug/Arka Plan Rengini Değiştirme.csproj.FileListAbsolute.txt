@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Arka Plan Rengini Değiştirme\Arka Plan Rengini Değiştirme\bin\Debug\Arka Plan Rengini Değiştirme.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Arka Plan Rengini Değiştirme\Arka Plan Rengini Değiştirme\bin\Debug\Arka Plan Rengini Değiştirme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Arka Plan Rengini Değiştirme\Arka Plan Rengini Değiştirme\bin\Debug\Arka Plan Rengini Değiştirme.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Arka Plan Rengini Değiştirme\Arka Plan Rengini Değiştirme\obj\Debug\Arka Plan Rengini Değiştirme.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Arka Plan Rengini Değiştirme\Arka Plan Rengini Değiştirme\obj\Debug\Arka Plan Rengini Değiştirme.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Arka Plan Rengini Değiştirme\Arka Plan Rengini Değiştirme\obj\Debug\Arka Plan Rengini Değiştirme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Arka Plan Rengini Değiştirme\Arka Plan Rengini Değiştirme\obj\Debug\Arka Plan Rengini Değiştirme.pdb

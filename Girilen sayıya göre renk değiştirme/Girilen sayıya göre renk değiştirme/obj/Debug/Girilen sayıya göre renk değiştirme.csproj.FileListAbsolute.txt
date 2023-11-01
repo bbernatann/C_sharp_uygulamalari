@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Girilen sayıya göre renk değiştirme\Girilen sayıya göre renk değiştirme\bin\Debug\Girilen sayıya göre renk değiştirme.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Girilen sayıya göre renk değiştirme\Girilen sayıya göre renk değiştirme\bin\Debug\Girilen sayıya göre renk değiştirme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Girilen sayıya göre renk değiştirme\Girilen sayıya göre renk değiştirme\bin\Debug\Girilen sayıya göre renk değiştirme.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Girilen sayıya göre renk değiştirme\Girilen sayıya göre renk değiştirme\obj\Debug\Girilen sayıya göre renk değiştirme.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Girilen sayıya göre renk değiştirme\Girilen sayıya göre renk değiştirme\obj\Debug\Girilen sayıya göre renk değiştirme.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Girilen sayıya göre renk değiştirme\Girilen sayıya göre renk değiştirme\obj\Debug\Girilen sayıya göre renk değiştirme.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Girilen sayıya göre renk değiştirme\Girilen sayıya göre renk değiştirme\obj\Debug\Girilen sayıya göre renk değiştirme.pdb

@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Çok boyutlu diziler\Çok boyutlu diziler\bin\Debug\Çok boyutlu diziler.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Çok boyutlu diziler\Çok boyutlu diziler\bin\Debug\Çok boyutlu diziler.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Çok boyutlu diziler\Çok boyutlu diziler\bin\Debug\Çok boyutlu diziler.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Çok boyutlu diziler\Çok boyutlu diziler\obj\Debug\Çok boyutlu diziler.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Çok boyutlu diziler\Çok boyutlu diziler\obj\Debug\Çok boyutlu diziler.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Çok boyutlu diziler\Çok boyutlu diziler\obj\Debug\Çok boyutlu diziler.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Çok boyutlu diziler\Çok boyutlu diziler\obj\Debug\Çok boyutlu diziler.pdb
