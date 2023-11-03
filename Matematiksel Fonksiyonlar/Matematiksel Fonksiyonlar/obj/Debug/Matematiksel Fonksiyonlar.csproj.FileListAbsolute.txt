@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matematiksel Fonksiyonlar\Matematiksel Fonksiyonlar\bin\Debug\Matematiksel Fonksiyonlar.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matematiksel Fonksiyonlar\Matematiksel Fonksiyonlar\bin\Debug\Matematiksel Fonksiyonlar.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matematiksel Fonksiyonlar\Matematiksel Fonksiyonlar\bin\Debug\Matematiksel Fonksiyonlar.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matematiksel Fonksiyonlar\Matematiksel Fonksiyonlar\obj\Debug\Matematiksel Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matematiksel Fonksiyonlar\Matematiksel Fonksiyonlar\obj\Debug\Matematiksel Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matematiksel Fonksiyonlar\Matematiksel Fonksiyonlar\obj\Debug\Matematiksel Fonksiyonlar.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matematiksel Fonksiyonlar\Matematiksel Fonksiyonlar\obj\Debug\Matematiksel Fonksiyonlar.pdb
