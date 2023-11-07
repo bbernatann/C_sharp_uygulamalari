@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\2X2 matrislerde determinant bulma\2X2 matrislerde determinant bulma\bin\Debug\2X2 matrislerde determinant bulma.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\2X2 matrislerde determinant bulma\2X2 matrislerde determinant bulma\bin\Debug\2X2 matrislerde determinant bulma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\2X2 matrislerde determinant bulma\2X2 matrislerde determinant bulma\bin\Debug\2X2 matrislerde determinant bulma.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\2X2 matrislerde determinant bulma\2X2 matrislerde determinant bulma\obj\Debug\2X2 matrislerde determinant bulma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\2X2 matrislerde determinant bulma\2X2 matrislerde determinant bulma\obj\Debug\2X2 matrislerde determinant bulma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\2X2 matrislerde determinant bulma\2X2 matrislerde determinant bulma\obj\Debug\2X2 matrislerde determinant bulma.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\2X2 matrislerde determinant bulma\2X2 matrislerde determinant bulma\obj\Debug\2X2 matrislerde determinant bulma.pdb

@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kare Şekli Yapan Uygulama\Kare Şekli Yapan Uygulama\bin\Debug\Kare Şekli Yapan Uygulama.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kare Şekli Yapan Uygulama\Kare Şekli Yapan Uygulama\bin\Debug\Kare Şekli Yapan Uygulama.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kare Şekli Yapan Uygulama\Kare Şekli Yapan Uygulama\bin\Debug\Kare Şekli Yapan Uygulama.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kare Şekli Yapan Uygulama\Kare Şekli Yapan Uygulama\obj\Debug\Kare Şekli Yapan Uygulama.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kare Şekli Yapan Uygulama\Kare Şekli Yapan Uygulama\obj\Debug\Kare Şekli Yapan Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kare Şekli Yapan Uygulama\Kare Şekli Yapan Uygulama\obj\Debug\Kare Şekli Yapan Uygulama.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kare Şekli Yapan Uygulama\Kare Şekli Yapan Uygulama\obj\Debug\Kare Şekli Yapan Uygulama.pdb

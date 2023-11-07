@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Metotla sayının üssünü alma\Metotla sayının üssünü alma\bin\Debug\Metotla sayının üssünü alma.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Metotla sayının üssünü alma\Metotla sayının üssünü alma\bin\Debug\Metotla sayının üssünü alma.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Metotla sayının üssünü alma\Metotla sayının üssünü alma\bin\Debug\Metotla sayının üssünü alma.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Metotla sayının üssünü alma\Metotla sayının üssünü alma\obj\Debug\Metotla sayının üssünü alma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Metotla sayının üssünü alma\Metotla sayının üssünü alma\obj\Debug\Metotla sayının üssünü alma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Metotla sayının üssünü alma\Metotla sayının üssünü alma\obj\Debug\Metotla sayının üssünü alma.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Metotla sayının üssünü alma\Metotla sayının üssünü alma\obj\Debug\Metotla sayının üssünü alma.pdb

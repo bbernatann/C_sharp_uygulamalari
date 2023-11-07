@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Elmas Şekli\Elmas Şekli\bin\Debug\Elmas Şekli.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Elmas Şekli\Elmas Şekli\bin\Debug\Elmas Şekli.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Elmas Şekli\Elmas Şekli\bin\Debug\Elmas Şekli.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Elmas Şekli\Elmas Şekli\obj\Debug\Elmas Şekli.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Elmas Şekli\Elmas Şekli\obj\Debug\Elmas Şekli.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Elmas Şekli\Elmas Şekli\obj\Debug\Elmas Şekli.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Elmas Şekli\Elmas Şekli\obj\Debug\Elmas Şekli.pdb

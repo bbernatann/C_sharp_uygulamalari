@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kapsülleme\Kapsülleme\bin\Debug\Kapsülleme.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kapsülleme\Kapsülleme\bin\Debug\Kapsülleme.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kapsülleme\Kapsülleme\bin\Debug\Kapsülleme.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.pdb

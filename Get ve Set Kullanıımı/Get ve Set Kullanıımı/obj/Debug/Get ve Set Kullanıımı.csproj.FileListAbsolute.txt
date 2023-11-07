@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Get ve Set Kullanıımı\Get ve Set Kullanıımı\bin\Debug\Get ve Set Kullanıımı.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Get ve Set Kullanıımı\Get ve Set Kullanıımı\bin\Debug\Get ve Set Kullanıımı.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Get ve Set Kullanıımı\Get ve Set Kullanıımı\bin\Debug\Get ve Set Kullanıımı.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Get ve Set Kullanıımı\Get ve Set Kullanıımı\obj\Debug\Get ve Set Kullanıımı.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Get ve Set Kullanıımı\Get ve Set Kullanıımı\obj\Debug\Get ve Set Kullanıımı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Get ve Set Kullanıımı\Get ve Set Kullanıımı\obj\Debug\Get ve Set Kullanıımı.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Get ve Set Kullanıımı\Get ve Set Kullanıımı\obj\Debug\Get ve Set Kullanıımı.pdb

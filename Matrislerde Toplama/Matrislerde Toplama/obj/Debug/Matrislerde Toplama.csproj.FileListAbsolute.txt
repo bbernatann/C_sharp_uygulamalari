@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde Toplama\Matrislerde Toplama\bin\Debug\Matrislerde Toplama.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde Toplama\Matrislerde Toplama\bin\Debug\Matrislerde Toplama.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde Toplama\Matrislerde Toplama\bin\Debug\Matrislerde Toplama.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde Toplama\Matrislerde Toplama\obj\Debug\Matrislerde Toplama.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde Toplama\Matrislerde Toplama\obj\Debug\Matrislerde Toplama.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde Toplama\Matrislerde Toplama\obj\Debug\Matrislerde Toplama.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde Toplama\Matrislerde Toplama\obj\Debug\Matrislerde Toplama.pdb

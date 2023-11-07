@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde İşlemler\Matrislerde İşlemler\bin\Debug\Matrislerde İşlemler.exe.config
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde İşlemler\Matrislerde İşlemler\bin\Debug\Matrislerde İşlemler.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde İşlemler\Matrislerde İşlemler\bin\Debug\Matrislerde İşlemler.pdb
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde İşlemler\Matrislerde İşlemler\obj\Debug\Matrislerde İşlemler.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde İşlemler\Matrislerde İşlemler\obj\Debug\Matrislerde İşlemler.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde İşlemler\Matrislerde İşlemler\obj\Debug\Matrislerde İşlemler.exe
+C:\Users\BERNA TAN\Desktop\C# Uygulamaları(Murat Yücedağ Udemy)\Matrislerde İşlemler\Matrislerde İşlemler\obj\Debug\Matrislerde İşlemler.pdb

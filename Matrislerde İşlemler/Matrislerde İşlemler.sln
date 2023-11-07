@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrislerde İşlemler", "Matrislerde İşlemler\Matrislerde İşlemler.csproj", "{74ADCAF4-42E7-4D6B-8FAD-369C5B28CA94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74ADCAF4-42E7-4D6B-8FAD-369C5B28CA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74ADCAF4-42E7-4D6B-8FAD-369C5B28CA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74ADCAF4-42E7-4D6B-8FAD-369C5B28CA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74ADCAF4-42E7-4D6B-8FAD-369C5B28CA94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06A4F06-5B49-4F07-AF52-88D35457D3CB}
+	EndGlobalSection
+EndGlobal

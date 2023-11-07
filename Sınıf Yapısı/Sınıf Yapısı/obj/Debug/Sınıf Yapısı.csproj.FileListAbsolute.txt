@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sınıf Yapısı\Sınıf Yapısı\bin\Debug\Sınıf Yapısı.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sınıf Yapısı\Sınıf Yapısı\bin\Debug\Sınıf Yapısı.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sınıf Yapısı\Sınıf Yapısı\bin\Debug\Sınıf Yapısı.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sınıf Yapısı\Sınıf Yapısı\obj\Debug\Sınıf Yapısı.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sınıf Yapısı\Sınıf Yapısı\obj\Debug\Sınıf Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sınıf Yapısı\Sınıf Yapısı\obj\Debug\Sınıf Yapısı.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sınıf Yapısı\Sınıf Yapısı\obj\Debug\Sınıf Yapısı.pdb

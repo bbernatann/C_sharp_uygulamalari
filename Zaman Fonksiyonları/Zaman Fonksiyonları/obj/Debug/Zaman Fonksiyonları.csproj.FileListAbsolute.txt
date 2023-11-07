@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Zaman Fonksiyonları\Zaman Fonksiyonları\bin\Debug\Zaman Fonksiyonları.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Zaman Fonksiyonları\Zaman Fonksiyonları\bin\Debug\Zaman Fonksiyonları.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Zaman Fonksiyonları\Zaman Fonksiyonları\bin\Debug\Zaman Fonksiyonları.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Zaman Fonksiyonları\Zaman Fonksiyonları\obj\Debug\Zaman Fonksiyonları.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Zaman Fonksiyonları\Zaman Fonksiyonları\obj\Debug\Zaman Fonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Zaman Fonksiyonları\Zaman Fonksiyonları\obj\Debug\Zaman Fonksiyonları.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Zaman Fonksiyonları\Zaman Fonksiyonları\obj\Debug\Zaman Fonksiyonları.pdb

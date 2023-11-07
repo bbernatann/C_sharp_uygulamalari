@@ -1,0 +1,7 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Yıldızlarla Şekil Oluşturma\Yıldızlarla Şekil Oluşturma\bin\Debug\Yıldızlarla Şekil Oluşturma.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Yıldızlarla Şekil Oluşturma\Yıldızlarla Şekil Oluşturma\bin\Debug\Yıldızlarla Şekil Oluşturma.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Yıldızlarla Şekil Oluşturma\Yıldızlarla Şekil Oluşturma\bin\Debug\Yıldızlarla Şekil Oluşturma.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Yıldızlarla Şekil Oluşturma\Yıldızlarla Şekil Oluşturma\obj\Debug\Yıldızlarla Şekil Oluşturma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Yıldızlarla Şekil Oluşturma\Yıldızlarla Şekil Oluşturma\obj\Debug\Yıldızlarla Şekil Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Yıldızlarla Şekil Oluşturma\Yıldızlarla Şekil Oluşturma\obj\Debug\Yıldızlarla Şekil Oluşturma.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Yıldızlarla Şekil Oluşturma\Yıldızlarla Şekil Oluşturma\obj\Debug\Yıldızlarla Şekil Oluşturma.pdb
