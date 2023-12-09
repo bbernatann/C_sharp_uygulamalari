@@ -1,0 +1,11 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\bin\Debug\Formlar Arası Veri Taşıma.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\bin\Debug\Formlar Arası Veri Taşıma.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\bin\Debug\Formlar Arası Veri Taşıma.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\obj\Debug\Formlar_Arası_Veri_Taşıma.Form1.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\obj\Debug\Formlar_Arası_Veri_Taşıma.Form2.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\obj\Debug\Formlar_Arası_Veri_Taşıma.Properties.Resources.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.pdb

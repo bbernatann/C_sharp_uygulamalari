@@ -1,0 +1,10 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\bin\Debug\Sayısal Loto Uygulaması.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\bin\Debug\Sayısal Loto Uygulaması.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\bin\Debug\Sayısal Loto Uygulaması.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\obj\Debug\Sayısal Loto Uygulaması.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\obj\Debug\Sayısal_Loto_Uygulaması.Form1.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\obj\Debug\Sayısal_Loto_Uygulaması.Properties.Resources.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\obj\Debug\Sayısal Loto Uygulaması.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\obj\Debug\Sayısal Loto Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\obj\Debug\Sayısal Loto Uygulaması.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Sayısal Loto Uygulaması\Sayısal Loto Uygulaması\obj\Debug\Sayısal Loto Uygulaması.pdb

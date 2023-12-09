@@ -1,0 +1,10 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\obj\Debug\Matematik Fonksiyonları.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.Form1.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.Properties.Resources.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\obj\Debug\Matematik Fonksiyonları.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\obj\Debug\Matematik Fonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\bin\Debug\Matematik Fonksiyonları.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\bin\Debug\Matematik Fonksiyonları.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\bin\Debug\Matematik Fonksiyonları.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\obj\Debug\Matematik Fonksiyonları.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Matematik Fonksiyonları\Matematik Fonksiyonları\obj\Debug\Matematik Fonksiyonları.pdb

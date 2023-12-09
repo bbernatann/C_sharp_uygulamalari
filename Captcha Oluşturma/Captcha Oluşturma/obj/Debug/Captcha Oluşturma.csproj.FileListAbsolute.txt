@@ -1,0 +1,10 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\bin\Debug\Captcha Oluşturma.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\bin\Debug\Captcha Oluşturma.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\bin\Debug\Captcha Oluşturma.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\obj\Debug\Captcha Oluşturma.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\obj\Debug\Captcha_Oluşturma.Form1.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\obj\Debug\Captcha_Oluşturma.Properties.Resources.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\obj\Debug\Captcha Oluşturma.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\obj\Debug\Captcha Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\obj\Debug\Captcha Oluşturma.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Captcha Oluşturma\Captcha Oluşturma\obj\Debug\Captcha Oluşturma.pdb

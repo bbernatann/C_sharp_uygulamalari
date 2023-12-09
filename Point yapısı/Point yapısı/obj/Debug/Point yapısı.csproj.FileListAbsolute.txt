@@ -1,0 +1,10 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\bin\Debug\Point yapısı.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\bin\Debug\Point yapısı.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\bin\Debug\Point yapısı.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\obj\Debug\Point yapısı.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\obj\Debug\Point_yapısı.Form1.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\obj\Debug\Point_yapısı.Properties.Resources.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\obj\Debug\Point yapısı.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\obj\Debug\Point yapısı.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\obj\Debug\Point yapısı.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Point yapısı\Point yapısı\obj\Debug\Point yapısı.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formlar Arası Veri Taşıma", "Formlar Arası Veri Taşıma\Formlar Arası Veri Taşıma.csproj", "{19CA26A1-6CDD-4F00-8556-F6284FD567BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19CA26A1-6CDD-4F00-8556-F6284FD567BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CA26A1-6CDD-4F00-8556-F6284FD567BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CA26A1-6CDD-4F00-8556-F6284FD567BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CA26A1-6CDD-4F00-8556-F6284FD567BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE39F7B-74AD-4119-B880-345B52ECA4EA}
+	EndGlobalSection
+EndGlobal

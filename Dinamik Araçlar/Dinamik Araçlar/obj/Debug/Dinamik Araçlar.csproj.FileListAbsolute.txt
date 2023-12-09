@@ -1,0 +1,10 @@
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\bin\Debug\Dinamik Araçlar.exe.config
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\bin\Debug\Dinamik Araçlar.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\bin\Debug\Dinamik Araçlar.pdb
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\obj\Debug\Dinamik Araçlar.csproj.AssemblyReference.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\obj\Debug\Dinamik_Araçlar.Form1.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\obj\Debug\Dinamik_Araçlar.Properties.Resources.resources
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\obj\Debug\Dinamik Araçlar.csproj.GenerateResource.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\obj\Debug\Dinamik Araçlar.csproj.CoreCompileInputs.cache
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\obj\Debug\Dinamik Araçlar.exe
+C:\Users\BERNA TAN\Desktop\C#\C# Uygulamaları(Murat Yücedağ Udemy)\Dinamik Araçlar\Dinamik Araçlar\obj\Debug\Dinamik Araçlar.pdb
